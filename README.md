@@ -1,4 +1,4 @@
-# Publish link: https://bmicalcy0gk.ccbp.tech/
+Publish link: https://bmicalcy0gk.ccbp.tech/
 
 - Persisting Application data
   - Local Storage
